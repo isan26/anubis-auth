@@ -1,0 +1,24 @@
+{
+  "name": "anubis-auth",
+  "version": "0.0.0",
+  "description": "Simple and configurable authentication solution for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isan26/anubis-auth.git"
+  },
+  "keywords": [
+    "nodejs",
+    "authentication",
+    "auth"
+  ],
+  "author": "Isan <isan1989@gmail.com> (https://github.com/isan26/anubis-auth)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isan26/anubis-auth/issues"
+  },
+  "homepage": "https://github.com/isan26/anubis-auth#readme"
+}
